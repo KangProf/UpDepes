@@ -9,18 +9,14 @@ except ImportError:
 
 banner = """
 
- Author : Mr.ProfAcc
- Date   : 2021-06-11
- Tools  : up Depes V.1.0
- Github : /KangProf
- youtube: Profesor Acc
 
-┏╗ ┏╗
-║┃ ║┃╔━╦╦┳═╗
-║┃ ┃╚┫║┃┃┃╩┫
-┗╝ ╚━╩═┻━╩━╝
-┓╔┓┏
-║╚┛┣═╦┳╗
+                   ______________________
+┏╗ ┏╗              Author : Mr.ProfAcc
+║┃ ║┃╔━╦╦┳═╗      Date   : 2021-06-11
+║┃ ┃╚┫║┃┃┃╩┫      Tools  : up Depes V.1.0
+┗╝ ╚━╩═┻━╩━╝      Github : /KangProf
+┓╔┓┏               youtube: Profesor Acc
+║╚┛┣═╦┳╗          ______________________
 ┗╗┏╣┃┃║┃
  ┗╝┗═┻═╝
 
